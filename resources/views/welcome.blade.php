@@ -21,13 +21,13 @@
         <div>
           <nav>
             <br><br><ul class="flex flex-row">
-                <li><a href="docente" class=" d-sm-inline-flex-w-16 d-md-inline-flex-w-32 d-lg-inline-flex-w-48 mx-4 items-center justify-center px-12 py-4 text-base font-medium text-center text-black bg-gray-600 rounded-lg hover:bg-gray-600 focus:ring-4 focus:ring-gray-300 dark:focus:ring-gray-900"> PORTAL DOCENTE </a></li>
+                <li><a href="docentes" class=" d-sm-inline-flex-w-16 d-md-inline-flex-w-32 d-lg-inline-flex-w-48 mx-4 items-center justify-center px-12 py-4 text-base font-medium text-center text-black bg-gray-600 rounded-lg hover:bg-gray-600 focus:ring-4 focus:ring-gray-300 dark:focus:ring-gray-900"> PORTAL DOCENTE </a></li>
               
                 <li><a href="#" class=" d-sm-inline-flex-w-16 d-md-inline-flex-w-32 d-lg-inline-flex-w-48  mx-4 items-center justify-center px-12 py-4 text-base font-medium text-center text-black bg-gray-600 rounded-lg hover:bg-gray-600 focus:ring-4 focus:ring-gray-300 dark:focus:ring-gray-900">INGRESO</a></li>
                     
                     
                 <li><a href="#" class="d-sm-inline-flex-w-16 d-md-inline-flex-w-32 d-lg-inline-flex-w-48 mx-4 items-center justify-center px-12 py-4 text-base font-medium text-center text-black bg-gray-600 rounded-lg hover:bg-gray-600 focus:ring-4 focus:ring-gray-300 dark:focus:ring-gray-900">ALUMNOS</a></li>
-                <li><a href="#" class="d-sm-inline-flex-w-16 d-md-inline-flex-w-32 d-lg-inline-flex-w-48 mx-4 items-center justify-center px-12 py-4 text-base font-medium text-center text-black bg-gray-600 rounded-lg hover:bg-gray-600 focus:ring-4 focus:ring-gray-300 dark:focus:ring-gray-900">DOCENTES</a></li>
+                
                 <li><a href="#" class="d-sm-inline-flex-w-16 d-md-inline-flex-w-32 d-lg-inline-flex-w-48 mx-4 items-center justify-center px-12 py-4 text-base font-medium text-center text-black bg-gray-600 rounded-lg hover:bg-gray-600 focus:ring-4 focus:ring-gray-300 dark:focus:ring-gray-900">PAGOS</a></li>
                     
                 
